@@ -8,3 +8,4 @@ composer update
 composer require filament/filament
 php artisan make:filament-user
 
+php artisan make:filament-resource Customer //
