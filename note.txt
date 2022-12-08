@@ -1,2 +1,10 @@
 install and create a laravel projecy
 composer require laravel/breeze --dev // authentication
+php artisan breeze:install
+npm install
+npm run dev
+composer update
+
+composer require filament/filament
+php artisan make:filament-user
+
